@@ -8,16 +8,16 @@
       function drawChart() {
 
         var data = google.visualization.arrayToDataTable([
-['Task', 'Hours per Day'],
+['Committe', 'No of Commits'],
+['etteru',3], 
 ['Harald',2], 
 ['Michael',1], 
 ['Michael',1], 
-['etteru',1], 
-['', 1]
+['platzhalter', 1]
 ]);
 
         var options = {
-          title: 'My Daily Activities'
+          title: 'Most recent activities'
         };
 
         var chart = new google.visualization.PieChart(document.getElementById('piechart'));
