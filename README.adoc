@@ -1,0 +1,11 @@
+= GIT PIE
+
+* shows a pie chart which all commiters to a file which 
+** the part of the pie correspondes to the number of commited lines a commiter has commited
+** the part of the pie correspondes to the number of commits a commiter has commited
+* Interested if you want to find a person who could tell you most about the interested file
+* works only for git
+
+== Trivia
+
+* Has been creaeted during a hackergarten in Bern see http://hackergarten.net/ for about hackergartens
